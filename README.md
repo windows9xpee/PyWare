@@ -1,15 +1,9 @@
-# The-Angry-Bird-s-Hax
+Pyware
 Open source bytecode replacement roblox executor made in python
 # Features
 Shit performance
 Guaranteed detection
-Custom functions such as:
-
-getniggas(),
-crashgame(),
-fakehookfunction(),
-unsaveinstance(),
-and many more
+Easy to skid
 
 # Tips/Problems
 Windows default terminal doesn't support colors, I reccomend alacritty
