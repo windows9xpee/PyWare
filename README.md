@@ -8,7 +8,11 @@ Custom functions such as
 
 [
 getniggas()
+
 crashgame()
+
 fakehookfunction()
+
 unsaveinstance()
+
 ]
