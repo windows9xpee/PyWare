@@ -4,15 +4,10 @@ Open source bytecode replacement roblox executor made in python
 Shit performance
 Guaranteed detection
 Terrible dogshit UI
-Custom functions such as 
 
-[
+Custom functions such as:
+
 getniggas()
-
 crashgame()
-
 fakehookfunction()
-
 unsaveinstance()
-
-]
