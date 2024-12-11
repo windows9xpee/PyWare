@@ -5,6 +5,7 @@ Shit performance
 Guaranteed detection
 Terrible dogshit UI
 Custom functions such as 
+
 [
 getniggas()
 crashgame()
