@@ -6,5 +6,4 @@ Guaranteed detection,
 Easy to skid,
 
 # Tips/Problems
-Windows default terminal doesn't support colors, I reccomend alacritty.
-Attaching to roblox takes a while
+Very slow, Takes a while to attach
